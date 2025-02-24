@@ -29,8 +29,8 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+- name: Upload artifact
+        uses: actions/upload-pages-artifact@v3  # Обновил с v2 на v3
         with:
           path: public
 
