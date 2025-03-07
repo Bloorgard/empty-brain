@@ -5,7 +5,7 @@ enableToc: false
 
 Это моё хранилище всяких интересных штук.
 
-- [[AI Tools]]
+- [[AI_Tools]]
 - Creative Coding /soon/
 
 
