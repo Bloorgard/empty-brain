@@ -21,8 +21,10 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [Meta](https://imagine.meta.com) — бееее
 - (почему-то) Бесплатный фокус https://pixio-picto.ngrok.io/ 
 - [glif.app](https://glif.app/glifs) — Интересная штука. Конструктор приколюх
-- https://www.florafauna.ai
+- [florafauna](https://www.florafauna.ai)
 - [Weavy](https://app.weavy.ai/) — ещё один комбинированный сервис с нодовым интерфейсом
+- [Weights](https://www.weights.com/) 
+- [Reve](https://preview.reve.art/?account=login_or_tos)
 
 **Отечественное импортозамещение**
 Возможность оплатить зарубежные сервисы из РФ
