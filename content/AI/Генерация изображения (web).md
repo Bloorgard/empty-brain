@@ -22,6 +22,12 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - (почему-то) Бесплатный фокус https://pixio-picto.ngrok.io/ 
 - [glif.app](https://glif.app/glifs) — Интересная штука. Конструктор приколюх
 - https://www.florafauna.ai
+- [Weavy](https://app.weavy.ai/) — ещё один комбинированный сервис с нодовым интерфейсом
+
+**Отечественное импортозамещение**
+Возможность оплатить зарубежные сервисы из РФ
+- [GPTunneL](https://gptunnel.ru/)
+- 
 
 
 **Много моделей и инcтрументов**
@@ -86,7 +92,6 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - https://www.photoroom.com/
 
 
-
 **Замена лиц** 
 - [[inswapper]] — топ. Но через дискорд)
 - www.picsi.ai — сайт разрабочика [[inswapper]] 
@@ -96,6 +101,7 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [artflow.ai](https://app.artflow.ai/image-studio) — картинки персонажи с заданным лицом
 - [faceswapper](https://faceswapper.ai/)
 - [aifaceswap](https://aifaceswap.io/)
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) — тулза для потоковой замены лицп
 
 
 **Обучение собственной модели:**
@@ -120,7 +126,6 @@ https://mnml.ai/dashboard
 
 Инструмент. Редактирование фото (обнимашки)
 https://huggingface.co/spaces/editing-images/ledits
-
 
 Оптические иллюзии и всякое разное
 https://glif.app/@fab1an/glifs/clmqp99820001jn0f2xywz250
