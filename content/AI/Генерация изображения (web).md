@@ -25,6 +25,7 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [Weavy](https://app.weavy.ai/) — ещё один комбинированный сервис с нодовым интерфейсом
 - [Weights](https://www.weights.com/) 
 - [Reve](https://preview.reve.art/?account=login_or_tos)
+- [FLUX Playground - Black Forest Labs](https://playground.bfl.ai/image/edit)
 
 **Отечественное импортозамещение**
 Возможность оплатить зарубежные сервисы из РФ

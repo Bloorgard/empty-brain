@@ -7,5 +7,7 @@ enableToc: false
 
 - [[AI_Tools]]
 - Creative Coding /soon/
-
+  
+  
+[ИИ инструменты](https://bloorgard.github.io/empty-brain/AI/AI_Tools)
 
