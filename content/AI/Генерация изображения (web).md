@@ -27,10 +27,14 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [Reve](https://preview.reve.art/?account=login_or_tos)
 - [FLUX Playground - Black Forest Labs](https://playground.bfl.ai/image/edit)
 
+
 **Отечественное импортозамещение**
 Возможность оплатить зарубежные сервисы из РФ
 - [GPTunneL](https://gptunnel.ru/)
-- 
+
+
+**Бесплатненько**
+- [lmarena.ai](https://lmarena.ai/)
 
 
 **Много моделей и инcтрументов**

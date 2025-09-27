@@ -16,6 +16,7 @@
 - [Novita AI](https://novita.ai/)
 - [QuickPod](https://quickpod.io)
 - [Koyeb](https://www.koyeb.com)
+- [RunningHub: ComfyUI Cloud, Create AI Apps Online](https://www.runninghub.ai/)
 
 - [rundiffusion](https://app.rundiffusion.com/) Виртуальные машины для генерации — 0.5/1/1.75 **$** за час (то чем пользуюсь сам)
 - https://fal.ai
