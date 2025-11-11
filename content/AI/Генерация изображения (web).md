@@ -26,6 +26,9 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [Weights](https://www.weights.com/) 
 - [Reve](https://preview.reve.art/?account=login_or_tos)
 - [FLUX Playground - Black Forest Labs](https://playground.bfl.ai/image/edit)
+- [Pollo AI](https://pollo.ai/)
+- [24AI](https://app.24ai.tech/ru/home)
+- 
 
 
 **Отечественное импортозамещение**
