@@ -23,12 +23,12 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [glif.app](https://glif.app/glifs) — Интересная штука. Конструктор приколюх
 - [florafauna](https://www.florafauna.ai)
 - [Weavy](https://app.weavy.ai/) — ещё один комбинированный сервис с нодовым интерфейсом
-- [Weights](https://www.weights.com/) 
+- [voyages (Weights)](https://www.weights.com/) 
 - [Reve](https://preview.reve.art/?account=login_or_tos)
 - [FLUX Playground - Black Forest Labs](https://playground.bfl.ai/image/edit)
 - [Pollo AI](https://pollo.ai/)
 - [24AI](https://app.24ai.tech/ru/home)
-- 
+- [Sourceful Riverflow 1](https://www.sourceful.com/research/introducing-sourceful-riverflow-1)
 
 
 **Отечественное импортозамещение**
@@ -112,6 +112,7 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [faceswapper](https://faceswapper.ai/)
 - [aifaceswap](https://aifaceswap.io/)
 - [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) — тулза для потоковой замены лицп
+- [ComfyUI-ReActor](https://github.com/Gourieff/ComfyUI-ReActor?tab=readme-ov-file)
 
 
 **Обучение собственной модели:**
