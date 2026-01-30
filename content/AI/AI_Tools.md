@@ -19,7 +19,7 @@ aliases:
 >
 >А это — [мой канал в телеграмм](https://t.me/vse_pustoe) 
 
-ссылка на эту же страницу 
+ссылка на эту же страницу тест
 [ИИ инструменты](https://bloorgard.github.io/empty-brain/AI/AI_Tools)
 
 ### [[ИИ Теория]]
