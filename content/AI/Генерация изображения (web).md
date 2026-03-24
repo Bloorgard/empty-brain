@@ -57,6 +57,7 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [illuminarty](https://illuminarty.ai/en/)
 - [Hive AI Detector](https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi) 
 - [brandwell](https://brandwell.ai/ai-image-detector/)
+- https://hivemoderation.com/ai-generated-content-detection
 
 ## Специализированные тулы
 
