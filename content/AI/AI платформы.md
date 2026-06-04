@@ -21,3 +21,7 @@
 ### [OpenRouter](https://openrouter.ai/)
 Позволяет настроить единый API для разных платформ. 
 
+https://lium.io/
+https://vast.ai/
+https://targon.com/#pricing
+

@@ -21,14 +21,22 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [Meta](https://imagine.meta.com) — бееее
 - (почему-то) Бесплатный фокус https://pixio-picto.ngrok.io/ 
 - [glif.app](https://glif.app/glifs) — Интересная штука. Конструктор приколюх
-- [florafauna](https://www.florafauna.ai)
-- [Weavy](https://app.weavy.ai/) — ещё один комбинированный сервис с нодовым интерфейсом
+- [florafauna](https://www.florafauna.ai) — Ноды
+- [Weavy](https://app.weavy.ai/) — Ноды. Сервис куплен фигмой
 - [voyages (Weights)](https://www.weights.com/) 
 - [Reve](https://preview.reve.art/?account=login_or_tos)
 - [FLUX Playground - Black Forest Labs](https://playground.bfl.ai/image/edit)
 - [Pollo AI](https://pollo.ai/)
 - [24AI](https://app.24ai.tech/ru/home)
 - [Sourceful Riverflow 1](https://www.sourceful.com/research/introducing-sourceful-riverflow-1)
+- https://mitte.ai/
+- https://bothub.chat/ — Отечественное
+
+
+Векторное
+- https://quiver.ai/#illustrations — единсвенная честная векторная модель
+- https://vectorizer.ai/pricing — лучший трассиовщий. ноплатный
+- 
 
 
 **Отечественное импортозамещение**
@@ -65,6 +73,7 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [krea.ai](https://www.krea.ai/ ) — пока бесплатно, но с ограничениями. Временами хорошо
 - [leonardo.ai](https://leonardo.ai/ ) — крутой апскейлер/энхансер (платно, но мой любимчик)
 - [magicreply.io](https://magicreply.io/) — сильно платно, но есть демка. Результат неплох
+- https://clarityai.co/
 
 
 **Апскейлеры:**
