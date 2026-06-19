@@ -62,4 +62,4 @@ Stability AI играет важную роль в демократизации 
 - [[notes/AI/Stable Diffusion|Stable Diffusion]]
 - clipdrop
 
-[[SD models]]
+[[Stable Diffusion]]
