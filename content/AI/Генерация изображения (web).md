@@ -39,28 +39,28 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - 
 
 
-**Отечественное импортозамещение**
+### Отечественное импортозамещение
 Возможность оплатить зарубежные сервисы из РФ
 - [GPTunneL](https://gptunnel.ru/)
 
 
-**Бесплатненько**
+### Бесплатненько
 - [lmarena.ai](https://lmarena.ai/)
 
 
-**Много моделей и инcтрументов**
+### Много моделей и инcтрументов
 - [civitai](https://civitai.com) — каталог дообученных моделей, но там можно и погенерить
 - [tensor.art](https://tensor.art/)
 - [seaart](https://www.seaart.ai)
 - [dezgo.com](https://dezgo.com/)
 - [neural.love](https://neural.love/) — Проект Дениса Секси Айти
-- [openart.ai](openart.ai.md )
+- [openart.ai](https://openart.ai/)
 - [playground.com](https://playground.com/) — сейчас это набор ready to use темплейтов
 - [photoroom.com](https://app.photoroom.com/create) — (пакетная?) обработка изображений 
 - [getimg.ai](getimg.ai.md)
 
 
-**Нейросети для определения генеративного контента (изображения)**`
+### Нейросети для определения генеративного контента (изображения)
 - [ai or not](https://aiornot.com/)
 - [illuminarty](https://illuminarty.ai/en/)
 - [Hive AI Detector](https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi) 
@@ -69,14 +69,14 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 
 ## Специализированные тулы
 
-**Энхансеры:**
+### Энхансеры
 - [krea.ai](https://www.krea.ai/ ) — пока бесплатно, но с ограничениями. Временами хорошо
 - [leonardo.ai](https://leonardo.ai/ ) — крутой апскейлер/энхансер (платно, но мой любимчик)
 - [magicreply.io](https://magicreply.io/) — сильно платно, но есть демка. Результат неплох
 - https://clarityai.co/
 
 
-**Апскейлеры:**
+### Апскейлеры
 - [bigjpg](https://bigjpg.com/) — апскейлер
 - [upscale](https://www.upscale.media/ru) — апскейлер
 - [resize-image-online](https://resize-image-online.com/ru) — апскейлер
@@ -89,19 +89,19 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life — для реставрации старых фото
 
 
-**Удаление фона:**
+### Удаление фона
 - [remove-background-online](https://remove-background-online.com/ru) — удаление фона
 - [remove.bg](https://www.remove.bg/ru) — удаление фона
 
 
-**Реалтайм рисовалки:**
+### Реалтайм рисовалки
 - [leonardo](https://leonardo.ai/) — пока бесплатно
 - [krea](https://www.krea.ai/) — пока бесплатная, широкая демка
 - [pikaso (freepik)](https://www.freepik.com/pikaso/) — очень узкая демка
 - https://drawfast.tldraw.com/ — (уже не работает бесплатно, но есть инструкция как поднять локально с работой по апи, или встроить в своё приложение)
 
 
-**Перенос стиля:**
+### Перенос стиля
 - [[Midjourney|Midjourney]] — разные типы референсов, мудборд
 - [vizcom](https://www.vizcom.ai/) — генерация по эскизу + возможность загрузки рефа (ещё бесплатно)
 - [krea.ai](https://www.krea.ai) — даёт возможность генерировать по рефу
@@ -112,7 +112,7 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - https://www.photoroom.com/
 
 
-**Замена лиц** 
+### Замена лиц
 - [[inswapper]] — топ. Но через дискорд)
 - www.picsi.ai — сайт разрабочика [[inswapper]] 
 - [reface.ai](https://reface.ai/unboring/restyle) — дороговато
@@ -125,7 +125,7 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [ComfyUI-ReActor](https://github.com/Gourieff/ComfyUI-ReActor?tab=readme-ov-file)
 
 
-**Обучение собственной модели:**
+### Обучение собственной модели
 - [leonardo.ai](https://leonardo.ai/) — у меня пока там получилась фигня
 - [exactly.ai](https://app.exactly.ai) — стартап нацененный на продаже стидей художников
 - [krea](https://www.krea.ai/) — вот тут получилось что-то интересное (на бесплатном тарифе)
@@ -133,7 +133,7 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [aipaintr](https://app.aipaintr.com/) — dreambooth training (не тестил)
 
 
-**Оптические иллюзии**
+### Оптические иллюзии
 -  [spirals.vercel.app](https://spirals.vercel.app) — оптические иллюзии
 
 
