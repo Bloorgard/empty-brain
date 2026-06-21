@@ -15,8 +15,8 @@ https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena
 - [freepik](https://www.freepik.com/ai)
 - [[Dall-e|Dall-e]] — Удобно давать команды естественным языком. Сложно контролировать
 - [[Adobe FireFly]] — Классная работа со стилизацией (на сайте). Интересные инструменты вшитые в пакет
-- ~~[[notes/AI/Stable Diffusion|Stable Diffusion]]~~  [[Flux]]
-- [[notes/AI/Кандинский|Кандинский]]
+- ~~[[Stable Diffusion]]~~  [[Flux]]
+- [[Кандинский]]
 - [Шедеврум](https://shedevrum.ai/) — только в мобильном приложении
 - [Meta](https://imagine.meta.com) — бееее
 - (почему-то) Бесплатный фокус https://pixio-picto.ngrok.io/ 

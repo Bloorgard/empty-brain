@@ -59,7 +59,7 @@ Stability AI играет важную роль в демократизации 
 ---
 
 Ключевые продукты компании.
-- [[notes/AI/Stable Diffusion|Stable Diffusion]]
+- [[Stable Diffusion]]
 - clipdrop
 
 [[Stable Diffusion]]
