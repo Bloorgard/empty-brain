@@ -2,7 +2,7 @@
 // Scans content/ for [[wikilinks]] whose target file does not exist.
 // Resolves by filename (Quartz shortest-path), ignores headings/aliases.
 import { readdirSync, readFileSync, statSync } from "node:fs";
-import { join, basename, extname } from "node:path";
+import { join, basename, dirname, extname } from "node:path";
 
 const ROOT = "content";
 const IGNORE = new Set([".obsidian", "notes"]);
@@ -19,7 +19,14 @@ function walk(dir) {
 }
 
 const files = walk(ROOT);
-const names = new Set(files.map((f) => basename(f, ".md")));
+// A note is reachable by its filename. A folder index (`_index.md`/`index.md`)
+// is also reachable by its folder name — Quartz resolves [[Folder]] to it.
+const names = new Set();
+for (const f of files) {
+  const base = basename(f, ".md");
+  if (base === "_index" || base === "index") names.add(basename(dirname(f)));
+  else names.add(base);
+}
 
 const linkRe = /\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g;
 let broken = 0;
