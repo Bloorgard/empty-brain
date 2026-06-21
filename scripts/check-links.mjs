@@ -19,9 +19,11 @@ function walk(dir) {
 }
 
 const files = walk(ROOT);
-// A note is reachable by its filename, by aliases in its frontmatter, and —
-// for folder indexes (`_index.md`/`index.md`) — by its folder name. Quartz
-// resolves [[Folder]] and [[alias]] to the right page.
+// A note is reachable by its filename and by aliases in its frontmatter.
+// NOTE: folder-index pages (`_index.md`) are NOT reachable via [[FolderName]]
+// in Quartz "shortest" resolution (their slug ends in /index, not the folder
+// name) nor in Obsidian. So a folder name does NOT make [[FolderName]] valid —
+// use a folder-note (`Folder/Folder.md`) instead.
 const names = new Set();
 function addAliases(text) {
   const fm = text.match(/^---\n([\s\S]*?)\n---/);
@@ -36,8 +38,8 @@ function addAliases(text) {
 }
 for (const f of files) {
   const base = basename(f, ".md");
-  if (base === "_index" || base === "index") names.add(basename(dirname(f)));
-  else names.add(base);
+  // _index/index pages are not [[name]]-addressable; skip their basename.
+  if (base !== "_index" && base !== "index") names.add(base);
   addAliases(readFileSync(f, "utf8"));
 }
 
