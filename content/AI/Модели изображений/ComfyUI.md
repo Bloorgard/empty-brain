@@ -1,4 +1,7 @@
-
+---
+tags:
+  - локально
+---
 - [ComfyUI](https://www.comfy.org/) — официальный сайт 
 - https://habr.com/ru/articles/729848/ — Статья на хабре 
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Ссылка на гитхаб
