@@ -19,13 +19,26 @@ function walk(dir) {
 }
 
 const files = walk(ROOT);
-// A note is reachable by its filename. A folder index (`_index.md`/`index.md`)
-// is also reachable by its folder name — Quartz resolves [[Folder]] to it.
+// A note is reachable by its filename, by aliases in its frontmatter, and —
+// for folder indexes (`_index.md`/`index.md`) — by its folder name. Quartz
+// resolves [[Folder]] and [[alias]] to the right page.
 const names = new Set();
+function addAliases(text) {
+  const fm = text.match(/^---\n([\s\S]*?)\n---/);
+  if (!fm) return;
+  const block = fm[1].match(/^aliases:[ \t]*(.*(?:\n[ \t]+-.*)*)/m);
+  if (!block) return;
+  const inline = block[1].trim();
+  if (inline && !inline.startsWith("-")) names.add(inline.replace(/['"]/g, ""));
+  for (const m of block[1].matchAll(/^[ \t]+-\s*(.+)$/gm)) {
+    names.add(m[1].trim().replace(/['"]/g, ""));
+  }
+}
 for (const f of files) {
   const base = basename(f, ".md");
   if (base === "_index" || base === "index") names.add(basename(dirname(f)));
   else names.add(base);
+  addAliases(readFileSync(f, "utf8"));
 }
 
 const linkRe = /\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]/g;
