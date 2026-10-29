@@ -2,17 +2,20 @@
 tags:
   - локально
 ---
+ComfyUI — нодовый интерфейс для сборки workflow генерации и обработки медиа.
+Поддерживаемые модели и инструкции установки — в [официальном репозитории](https://github.com/Comfy-Org/ComfyUI).
+
 - [ComfyUI](https://www.comfy.org/) — официальный сайт 
 - https://habr.com/ru/articles/729848/ — Статья на хабре 
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — Ссылка на гитхаб
+- [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Ссылка на гитхаб
 
 
-Облака
+## Облачный запуск
 - [Runpod \| The cloud built for AI](https://www.runpod.io/)
-- [Comfy Deploy](https://app.comfydeploy.com/auth/sign-in?redirect=%2Fuser%2Fpustota%2Fmachines%3Fview%3Dcreate)
+- [Comfy Deploy](https://www.comfydeploy.com/)
 
 
-Обучение
+## Обучение
 - [Курс ComfyUI. "От основ, до создания сложных схем"](https://stabledif.ru/comfyui) — какой-то курс. Ничего про него не знаю
 
 [[ComfyUI workflows]]

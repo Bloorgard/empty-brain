@@ -1,7 +1,13 @@
+---
+title: Workflow для ComfyUI
+---
+Подборки готовых схем для [[ComfyUI]]. Совместимость зависит от версии ComfyUI,
+установленных нод и моделей; доступность каталога не гарантирует запуск каждой схемы.
 
-
-workflows
-- [Comfy Workflows workflows page](https://comfyworkflows.com/workflows)
+- [Официальная подборка Comfy](https://comfy.org/workflows/)
 - [Nordy](https://nordy.ai/)
-- [ComfyUI Workflows - Developer Community](https://openart.ai/workflows/all)
-- [Aitrepreneur \| Ai art, Large Language Models, Stable Diffusion, LLAMA, LORA \| Patreon](https://www.patreon.com/aitrepreneur)
+- [Aitrepreneur на Patreon](https://www.patreon.com/aitrepreneur) — авторские материалы
+
+Прежний каталог Comfy Workflows перенесён в [[Легаси]] из-за ошибок соединения.
+Адрес OpenArt `/workflows/all` теперь ведёт на главную страницу студии;
+сам сервис сохранён в [[Модели изображений]].

@@ -1,22 +1,22 @@
 
-Телеграм каналы
+---
+title: Каналы и источники про AI
+---
+## Телеграм-каналы
 
+- [denissexyit](https://t.me/denissexy)
+- [Сиолошная](https://t.me/seeallochnaya)
+- [Нейросети и Блендер](https://t.me/monkeyinlaw)
+- [эйай ньюз](https://t.me/ai_newz)
+- [Метаверсище и ИИще](https://t.me/cgevent)
+- [Ai molodca](https://t.me/strangedalle)
+- [Complete AI](https://t.me/complete_ai)
 
-https://t.me/denissexy — denissexyit
-https://t.me/seeallochnaya — Сиолошная
-https://t.me/monkeyinlaw — Нейросети и Блендер
-https://t.me/ai_newz — эйай ньюз
-https://t.me/cgevent — Метаверсище и ИИще
-https://t.me/strangedalle — Ai molodca
-https://t.me/complete_ai — Complete AI
+## Папки каналов
 
+- [Каналы ML-инженеров и технарей](https://t.me/addlist/dlRBj63rvGM4NmY6)
+- [Моя папка чтения про AI](https://t.me/addlist/lqvPNX5UXfQxMjFi)
 
+## Сообщества
 
-Телеграм. Папка с каналами ML инженеров и технарей
-https://t.me/addlist/dlRBj63rvGM4NmY6
-
-Телеграм. Моя папка чтения про AI
-https://t.me/addlist/lqvPNX5UXfQxMjFi
-
-Ветка Reddit про StableDiffusion
-https://www.reddit.com/r/StableDiffusion
+- [Reddit r/StableDiffusion](https://www.reddit.com/r/StableDiffusion)

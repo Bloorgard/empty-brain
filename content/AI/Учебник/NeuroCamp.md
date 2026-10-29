@@ -1,15 +1,13 @@
+# NeuroCamp
 
-[Миро с материалами](https://miro.com/app/board/uXjVMDOTjYk=/)
+Личные материалы курса и домашние работы.
 
+[Доска Miro с материалами](https://miro.com/app/board/uXjVMDOTjYk=/) — 29 октября 2026 года Miro сообщает, что доска больше не опубликована или удалена. Ссылка сохранена: без доступа владельца различить эти причины нельзя.
 
+## Мои домашние работы
 
-## Mои домашки
-
-### [ДЗ №4](https://www.figma.com/file/Jm0aZXWCHDYHhlmBShYMwS/Neuro-Camp-3_4?type=design&node-id=0-1&mode=design&t=IcSllmd4V0d7TKkz-0)
-
-ДЗ №5.1
-ДЗ №5.2
-ДЗ №5.3
-
-
-### Домашка №6
+- [ДЗ №4 — Figma](https://www.figma.com/file/Jm0aZXWCHDYHhlmBShYMwS/Neuro-Camp-3_4?type=design&node-id=0-1&mode=design) — личный учебный файл; права доступа могут ограничивать просмотр.
+- ДЗ №5.1 — ссылка не была приложена.
+- ДЗ №5.2 — ссылка не была приложена.
+- ДЗ №5.3 — ссылка не была приложена.
+- Домашняя работа №6 — материалы не были приложены.

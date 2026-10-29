@@ -1,7 +1,10 @@
-Про констрол нет
+**ControlNet** — способ дополнительно управлять диффузионной генерацией изображений: например, задавать композицию контуром, наброском или картой глубины. Конкретная модель ControlNet должна быть совместима с используемой базовой моделью и интерфейсом.
 
-- Текст про контролнет 
-  https://journal.tinkoff.ru/controlnet/
+- [Исходный проект ControlNet](https://github.com/lllyasviel/ControlNet) — реализация и примеры.
+- [[Stable Diffusion]] · [[ComfyUI]] · [[Automatic 1111]]
 
-- ControlNet на репликейт
-  https://replicate.com/rossjillian/controlnet
+Материалы про ControlNet:
+
+- [Статья про ControlNet](https://t-j.ru/controlnet/) — материал 2023 года; доступна поисковая копия, прямой доступ при проверке не подтверждён
+
+- [ControlNet на Replicate](https://replicate.com/rossjillian/controlnet)

@@ -2,10 +2,13 @@
 tags:
   - локально
 ---
-SD можно использовать разными способами. Самый простой способ — использовать веб интерфейс и вычислительные мощности облачных сервисов. 
+Прежний интерфейс для Stable Diffusion; заметка сохранена для старых workflow.
+Доступность Colab-ссылок не означает, что блокноты совместимы с текущей средой: выполнение не проверялось.
+
+SD можно использовать разными способами. Самый простой способ — использовать веб-интерфейс и вычислительные мощности облачных сервисов.
 
 ### Локально
-- [Сам Automatic 1111 (GitHab)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [Сам Automatic 1111 (GitHub)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ### Аддоны Automatic
 - [[ControlNet]]
@@ -20,10 +23,10 @@ SD можно использовать разными способами. Сам
 - [{dax-wrld}](https://colab.research.google.com/github/dax-wrld/Stable-Diffusion-WebUI/blob/main/SMART_Colab_v3.ipynb?hl=ru&pli=1&authuser=1#scrollTo=q8re2uVveke3)
 - [SDXL](https://github.com/camenduru/sdxl-colab)
 - [Какая-то подборка](https://github.com/camenduru/stable-diffusion-webui-colab)
- 
+
 ### Справочные материалы и туториалы
-- [Сиснтаксис Automatic 1111](https://tengyart.ru/sintaksis-stable-diffusion-v-automatic1111-i-nmkd/)
+- [Синтаксис Automatic 1111](https://tengyart.ru/sintaksis-stable-diffusion-v-automatic1111-i-nmkd/)
 
 
 
-[[Stable Diffusion]] 
+[[Stable Diffusion]]
