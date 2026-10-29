@@ -1,5 +1,14 @@
 # Quartz v4
 
+## Проверка Empty Brain
+
+`bash scripts/check-build.sh` проверяет вики-ссылки, собирает сайт в `public/`
+и проверяет локальные ссылки, файлы и якоря в готовом HTML. Нужны Node.js и Python 3.
+Другую папку сборки можно передать первым аргументом, например:
+`bash scripts/check-build.sh /tmp/empty-brain-check`.
+
+Тесты проверки HTML: `python3 -B scripts/test-site-links.py`.
+
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
 Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.

@@ -101,11 +101,14 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 // don't process external links or intra-document anchors
                 const isInternal = !(isAbsoluteUrl(dest) || dest.startsWith("#"))
                 if (isInternal) {
-                  dest = node.properties.href = transformLink(
-                    file.data.slug!,
-                    dest,
-                    transformOptions,
-                  )
+                  // Inline tags already point to the site root after the Obsidian transform.
+                  if (!classes.includes("tag-link")) {
+                    dest = node.properties.href = transformLink(
+                      file.data.slug!,
+                      dest,
+                      transformOptions,
+                    )
+                  }
 
                   // url.resolve is considered legacy
                   // WHATWG equivalent https://nodejs.dev/en/api/v18/url/#urlresolvefrom-to
