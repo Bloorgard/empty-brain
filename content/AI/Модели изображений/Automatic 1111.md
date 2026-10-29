@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Automatic-1111"
 tags:
   - локально
 ---

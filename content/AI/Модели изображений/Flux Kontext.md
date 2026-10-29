@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Flux-Kontext"
 title: FLUX.1 Kontext
 ---
 FLUX.1 Kontext — прежнее поколение моделей Black Forest Labs для генерации и

@@ -1,4 +1,5 @@
 ---
+permalink: "AI/TripoSR"
 title: TripoSR
 ---
 TripoSR — открытая модель реконструкции 3D-объекта по одному изображению,

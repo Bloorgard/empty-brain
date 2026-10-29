@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Cloude-tutorials"
 title: "Claude: материалы по промптам"
 ---
 Официальные материалы Anthropic с приёмами и примерами составления промптов.

@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Midjourney"
 title: Midjourney
 ---
 [Midjourney](https://www.midjourney.com/) — сервис генерации и редактирования изображений

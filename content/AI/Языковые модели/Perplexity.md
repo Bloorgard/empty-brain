@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Perplexity"
 title: Perplexity
 ---
 [Perplexity](https://www.perplexity.ai/) — AI-поиск: сервис ищет информацию

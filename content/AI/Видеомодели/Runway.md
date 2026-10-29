@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Runway"
 title: Runway
 ---
 [Runway](https://runway.com/) — платформа генерации и редактирования видео,

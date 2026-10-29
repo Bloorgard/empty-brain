@@ -1,4 +1,5 @@
 ---
+permalink: "AI/ComfyUI"
 tags:
   - локально
 ---

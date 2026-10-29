@@ -1,4 +1,5 @@
 ---
+permalink: "AI/suno-tutorial"
 title: Suno — справка и старый гайд v3
 ---
 ## Актуальная отправная точка

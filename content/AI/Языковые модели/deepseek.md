@@ -1,4 +1,5 @@
 ---
+permalink: "AI/deepseek"
 title: DeepSeek
 ---
 [DeepSeek](https://www.deepseek.com/) — разработчик языковых моделей.

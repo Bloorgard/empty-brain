@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Flux"
 title: FLUX
 ---
 [FLUX](https://bfl.ai/) — семейство моделей Black Forest Labs для генерации и редактирования изображений.

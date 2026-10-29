@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Minimaxi"
 title: Hailuo и MiniMax
 ---
 [Hailuo](https://hailuoai.video/) — сервис видеогенерации MiniMax.

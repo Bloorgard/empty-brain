@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Dall-e"
 title: DALL·E — легаси
 ---
 DALL·E — прежнее семейство моделей OpenAI для генерации изображений.

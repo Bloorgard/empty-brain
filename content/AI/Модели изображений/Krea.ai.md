@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Krea.ai"
 title: Krea
 ---
 [Krea](https://www.krea.ai/) — творческая платформа для генерации и редактирования

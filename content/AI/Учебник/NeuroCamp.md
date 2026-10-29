@@ -1,3 +1,7 @@
+---
+permalink: "AI/NeuroCamp"
+---
+
 # NeuroCamp
 
 Личные материалы курса и домашние работы.

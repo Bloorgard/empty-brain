@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Mistral"
 title: Mistral
 ---
 [Mistral AI](https://mistral.ai/) выпускает языковые модели и инструменты для работы с ними.
