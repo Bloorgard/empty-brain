@@ -1,4 +1,5 @@
 ---
+permalink: "AI/ComfyUI-workflows"
 title: Workflow для ComfyUI
 ---
 Подборки готовых схем для [[ComfyUI]]. Совместимость зависит от версии ComfyUI,

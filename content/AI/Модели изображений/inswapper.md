@@ -1,4 +1,5 @@
 ---
+permalink: "AI/inswapper"
 title: INSwapper и Picsi.Ai
 ---
 В прежней заметке смешаны два варианта работы:

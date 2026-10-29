@@ -1,4 +1,5 @@
 ---
+permalink: "AI/LM-Studio"
 tags:
   - локально
 ---

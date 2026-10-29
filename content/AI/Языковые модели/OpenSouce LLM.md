@@ -1,4 +1,5 @@
 ---
+permalink: "AI/OpenSouce-LLM"
 title: "Локальный запуск LLM: материалы"
 tags:
   - локально

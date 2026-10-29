@@ -1,4 +1,5 @@
 ---
+permalink: "AI/cohere"
 title: Cohere
 ---
 [Cohere](https://cohere.com/) — платформа AI для бизнеса: генерация текста,

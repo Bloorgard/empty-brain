@@ -1,4 +1,5 @@
 ---
+permalink: "AI/Adobe-FireFly"
 title: Adobe Firefly
 ---
 [Adobe Firefly](https://firefly.adobe.com/) — генеративные инструменты Adobe в веб-приложении

@@ -1,4 +1,5 @@
 ---
+permalink: "AI/SoundFeel"
 title: Soundfeel и AIcapella — черновик сценария
 ---
 Авторский черновик презентации, исходные реплики сохранены.

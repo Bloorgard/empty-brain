@@ -1,4 +1,5 @@
 ---
+permalink: "AI/xAI-Grok"
 title: Grok и xAI
 ---
 [Grok](https://grok.com/) — AI-ассистент компании [xAI](https://x.ai/).

@@ -1,4 +1,5 @@
 ---
+permalink: "AI/character.ai"
 title: Character.AI
 ---
 [Character.AI](https://character.ai/) — сервис общения с AI-персонажами
